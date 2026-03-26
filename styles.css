@@ -1,0 +1,35 @@
+*
+{
+
+    background-color: bisque; 
+}
+h1 {
+    border: rgb(180, 206, 121) 4px solid;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    }
+h3 {
+    font-size: 22px;
+}
+
+ul, li{
+    background-color: aquamarine;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+   
+}
+img {
+   
+    object-fit: cover;
+    display:  block;
+
+}
+ form{
+    background-color: blueviolet;
+    color: black;
+    padding: 20px;
+    margin-bottom: 5px;
+ }
